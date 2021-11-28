@@ -1,2 +1,3 @@
 
-*.csv
+listings*.csv
+reviews*.csv
