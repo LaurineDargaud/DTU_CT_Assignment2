@@ -1,3 +1,5 @@
 
 listings*.csv
 reviews*.csv
+
+transactions.csv
